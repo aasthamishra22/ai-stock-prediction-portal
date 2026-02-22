@@ -3,7 +3,7 @@
 A full-stack web application that predicts stock prices using a deep learning LSTM model integrated with a Django REST Framework backend and a React frontend.
 
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Backend
 - Django
